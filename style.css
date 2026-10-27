@@ -29,7 +29,13 @@ body {
   font-size: 14px;
   font-weight: 600;
   color: #ffffff;
-  background: #2563eb;
+  background: #16a34a;
+}
+
+.update {
+  padding: 8px 12px;
+  border-left: 4px solid #16a34a;
+  background: #f0fdf4;
 }
 
 h1 { margin: 12px 0 4px; color: #1e3a8a; }
